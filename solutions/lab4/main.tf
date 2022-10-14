@@ -1,43 +1,43 @@
-resource "azurerm_resource_group" "rg1" {
+resource "azurerm_resource_group" "resgrp" {
   name     = "myResourceGroupAG"
   location = "westeurope"
 }
 
-resource "azurerm_virtual_network" "vnet1" {
+resource "azurerm_virtual_appgtw" "vnet" {
   name                = "myVNet"
-  resource_group_name = azurerm_resource_group.rg1.name
-  location            = azurerm_resource_group.rg1.location
+  resource_group_name = azurerm_resource_group.resgrp.name
+  location            = azurerm_resource_group.resgrp.location
   address_space       = ["10.21.0.0/16"]
 }
 
 resource "azurerm_subnet" "frontend" {
   name                 = "myAGSubnet"
-  resource_group_name  = azurerm_resource_group.rg1.name
-  virtual_network_name = azurerm_virtual_network.vnet1.name
+  resource_group_name  = azurerm_resource_group.resgrp.name
+  virtual_appgtw_name = azurerm_virtual_appgtw.vnet.name
   address_prefixes     = ["10.21.0.0/24"]
 }
 
 resource "azurerm_subnet" "backend" {
   name                 = "myBackendSubnet"
-  resource_group_name  = azurerm_resource_group.rg1.name
-  virtual_network_name = azurerm_virtual_network.vnet1.name
+  resource_group_name  = azurerm_resource_group.resgrp.name
+  virtual_appgtw_name = azurerm_virtual_appgtw.vnet.name
   address_prefixes     = ["10.21.1.0/24"]
 }
 
-resource "azurerm_public_ip" "pip1" {
+resource "azurerm_public_ip" "pubip" {
   name                = "myAGPublicIPAddress"
-  resource_group_name = azurerm_resource_group.rg1.name
-  location            = azurerm_resource_group.rg1.location
+  resource_group_name = azurerm_resource_group.resgrp.name
+  location            = azurerm_resource_group.resgrp.location
   allocation_method   = "Static"
   sku                 = "Standard"
 }
 
 
 
-resource "azurerm_application_gateway" "network" {
+resource "azurerm_application_gateway" "appgtw" {
   name                = "myAppGateway"
-  resource_group_name = azurerm_resource_group.rg1.name
-  location            = azurerm_resource_group.rg1.location
+  resource_group_name = azurerm_resource_group.resgrp.name
+  location            = azurerm_resource_group.resgrp.location
 
   sku {
     name     = "Standard_v2"
@@ -57,7 +57,7 @@ resource "azurerm_application_gateway" "network" {
 
   frontend_ip_configuration {
     name                 = var.frontend_ip_configuration_name
-    public_ip_address_id = azurerm_public_ip.pip1.id
+    public_ip_address_id = azurerm_public_ip.pubip.id
   }
 
   backend_address_pool {
@@ -89,11 +89,11 @@ resource "azurerm_application_gateway" "network" {
   }
 }
 
-resource "azurerm_network_interface" "nic" {
+resource "azurerm_appgtw_interface" "nic" {
   count = 2
   name                = "nic-${count.index+1}"
-  location            = azurerm_resource_group.rg1.location
-  resource_group_name = azurerm_resource_group.rg1.name
+  location            = azurerm_resource_group.resgrp.location
+  resource_group_name = azurerm_resource_group.resgrp.name
 
   ip_configuration {
     name                          = "nic-ipconfig-${count.index+1}"
@@ -102,61 +102,10 @@ resource "azurerm_network_interface" "nic" {
   }
 }
 
-resource "azurerm_network_interface_application_gateway_backend_address_pool_association" "nic-assoc01" {
+resource "azurerm_appgtw_interface_application_gateway_backend_address_pool_association" "nic-assc" {
   count = 2
-  network_interface_id    = azurerm_network_interface.nic[count.index].id
+  appgtw_interface_id    = azurerm_appgtw_interface.nic[count.index].id
   ip_configuration_name   = "nic-ipconfig-${count.index+1}"
-  backend_address_pool_id = tolist(azurerm_application_gateway.network.backend_address_pool).0.id
+  backend_address_pool_id = tolist(azurerm_application_gateway.appgtw.backend_address_pool).0.id
   #Note the issue with the backend pool - interesting reading = https://github.com/hashicorp/terraform-provider-azurerm/issues/16855
-}
-
-resource "random_password" "password" {
-  length = 16
-  special = true
-  lower = true
-  upper = true
-  number = true
-}
-
-resource "azurerm_windows_virtual_machine" "vm" {
-  count = 2
-  name                = "myVM${count.index+1}"
-  resource_group_name = azurerm_resource_group.rg1.name
-  location            = azurerm_resource_group.rg1.location
-  size                = "Standard_DS2_v2"
-  admin_username      = "azureadmin"
-  admin_password      = random_password.password.result
-
-  network_interface_ids = [
-    azurerm_network_interface.nic[count.index].id,
-  ]
-
-  os_disk {
-    caching              = "ReadWrite"
-    storage_account_type = "Standard_LRS"
-  }
-
-
-  source_image_reference {
-    publisher = "MicrosoftWindowsServer"
-    offer     = "WindowsServer"
-    sku       = "2019-Datacenter"
-    version   = "latest"
-  }
-}
-
-resource "azurerm_virtual_machine_extension" "vm-extensions" {
-  count = 2
-  name                 = "vm${count.index+1}-ext"
-  virtual_machine_id   = azurerm_windows_virtual_machine.vm[count.index].id
-  publisher            = "Microsoft.Compute"
-  type                 = "CustomScriptExtension"
-  type_handler_version = "1.10"
-
-  settings = <<SETTINGS
-    {
-        "commandToExecute": "powershell Add-WindowsFeature Web-Server; powershell Add-Content -Path \"C:\\inetpub\\wwwroot\\Default.htm\" -Value $($env:computername)"
-    }
-SETTINGS
-
 }

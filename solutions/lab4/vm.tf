@@ -9,15 +9,15 @@ resource "random_password" "password" {
 
 resource "azurerm_windows_virtual_machine" "vm" {
   count = 2
-  name                = "myVM${count.index+1}"
-  resource_group_name = azurerm_resource_group.rg1.name
-  location            = azurerm_resource_group.rg1.location
+  name                = "QAlabVM${count.index+1}"
+  resource_group_name = azurerm_resource_group.resgrp.name
+  location            = azurerm_resource_group.resgrp.location
   size                = "Standard_DS2_v2"
   admin_username      = "azureadmin"
   admin_password      = random_password.password.result
 
-  network_interface_ids = [
-    azurerm_network_interface.nic[count.index].id,
+  appgtw_interface_ids = [
+    azurerm_appgtw_interface.nic[count.index].id,
   ]
 
   os_disk {

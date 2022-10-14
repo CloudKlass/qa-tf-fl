@@ -1,27 +1,27 @@
 variable "backend_address_pool_name" {
-    default = "labBackendPool"
+    default = "qalabBackendPool"
 }
 
 variable "frontend_port_name" {
-    default = "labFrontendPort"
+    default = "qalabFrontendPort"
 }
 
 variable "frontend_ip_configuration_name" {
-    default = "labAGIPConfig"
+    default = "qalabAGIPConfig"
 }
 
 variable "http_setting_name" {
-    default = "labHTTPsetting"
+    default = "qalabHTTPsetting"
 }
 
 variable "listener_name" {
-    default = "labListener"
+    default = "qalabListener"
 }
 
 variable "request_routing_rule_name" {
-    default = "labRoutingRule"
+    default = "qalabRoutingRule"
 }
 
 variable "redirect_configuration_name" {
-    default = "labRedirectConfig"
+    default = "qalabRedirectConfig"
 }
