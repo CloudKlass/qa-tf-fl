@@ -3,7 +3,7 @@ resource "azurerm_resource_group" "resgrp" {
   location = "westeurope"
 }
 
-resource "azurerm_virtual_appgtw" "vnet" {
+resource "azurerm_virtual_network" "vnet" {
   name                = "myVNet"
   resource_group_name = azurerm_resource_group.resgrp.name
   location            = azurerm_resource_group.resgrp.location
@@ -13,14 +13,14 @@ resource "azurerm_virtual_appgtw" "vnet" {
 resource "azurerm_subnet" "frontend" {
   name                 = "myAGSubnet"
   resource_group_name  = azurerm_resource_group.resgrp.name
-  virtual_appgtw_name = azurerm_virtual_appgtw.vnet.name
+  virtual_network_name = azurerm_virtual_network.vnet.name
   address_prefixes     = ["10.21.0.0/24"]
 }
 
 resource "azurerm_subnet" "backend" {
   name                 = "myBackendSubnet"
   resource_group_name  = azurerm_resource_group.resgrp.name
-  virtual_appgtw_name = azurerm_virtual_appgtw.vnet.name
+  virtual_network_name = azurerm_virtual_network.vnet.name
   address_prefixes     = ["10.21.1.0/24"]
 }
 
@@ -89,7 +89,7 @@ resource "azurerm_application_gateway" "appgtw" {
   }
 }
 
-resource "azurerm_appgtw_interface" "nic" {
+resource "azurerm_network_interface" "nic" {
   count = 2
   name                = "nic-${count.index+1}"
   location            = azurerm_resource_group.resgrp.location
@@ -102,9 +102,9 @@ resource "azurerm_appgtw_interface" "nic" {
   }
 }
 
-resource "azurerm_appgtw_interface_application_gateway_backend_address_pool_association" "nic-assc" {
+resource "azurerm_network_interface_application_gateway_backend_address_pool_association" "nic-assc" {
   count = 2
-  appgtw_interface_id    = azurerm_appgtw_interface.nic[count.index].id
+  network_interface_id    = azurerm_network_interface.nic[count.index].id
   ip_configuration_name   = "nic-ipconfig-${count.index+1}"
   backend_address_pool_id = tolist(azurerm_application_gateway.appgtw.backend_address_pool).0.id
   #Note the issue with the backend pool - interesting reading = https://github.com/hashicorp/terraform-provider-azurerm/issues/16855
