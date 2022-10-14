@@ -1,6 +1,6 @@
 resource "azurerm_resource_group" "rg1" {
   name     = "myResourceGroupAG"
-  location = "eastus"
+  location = "westeurope"
 }
 
 resource "azurerm_virtual_network" "vnet1" {
@@ -85,6 +85,7 @@ resource "azurerm_application_gateway" "network" {
     http_listener_name         = var.listener_name
     backend_address_pool_name  = var.backend_address_pool_name
     backend_http_settings_name = var.http_setting_name
+    priority = 10
   }
 }
 
@@ -105,7 +106,8 @@ resource "azurerm_network_interface_application_gateway_backend_address_pool_ass
   count = 2
   network_interface_id    = azurerm_network_interface.nic[count.index].id
   ip_configuration_name   = "nic-ipconfig-${count.index+1}"
-  backend_address_pool_id = azurerm_application_gateway.network.backend_address_pool[0].id
+  backend_address_pool_id = tolist(azurerm_application_gateway.network.backend_address_pool).0.id
+  #Note the issue with the backend pool - interesting reading = https://github.com/hashicorp/terraform-provider-azurerm/issues/16855
 }
 
 resource "random_password" "password" {
@@ -121,7 +123,7 @@ resource "azurerm_windows_virtual_machine" "vm" {
   name                = "myVM${count.index+1}"
   resource_group_name = azurerm_resource_group.rg1.name
   location            = azurerm_resource_group.rg1.location
-  size                = "Standard_DS1_v2"
+  size                = "Standard_DS2_v2"
   admin_username      = "azureadmin"
   admin_password      = random_password.password.result
 

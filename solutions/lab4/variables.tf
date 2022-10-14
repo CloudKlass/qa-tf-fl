@@ -1,27 +1,27 @@
 variable "backend_address_pool_name" {
-    default = "myBackendPool"
+    default = "labBackendPool"
 }
 
 variable "frontend_port_name" {
-    default = "myFrontendPort"
+    default = "labFrontendPort"
 }
 
 variable "frontend_ip_configuration_name" {
-    default = "myAGIPConfig"
+    default = "labAGIPConfig"
 }
 
 variable "http_setting_name" {
-    default = "myHTTPsetting"
+    default = "labHTTPsetting"
 }
 
 variable "listener_name" {
-    default = "myListener"
+    default = "labListener"
 }
 
 variable "request_routing_rule_name" {
-    default = "myRoutingRule"
+    default = "labRoutingRule"
 }
 
 variable "redirect_configuration_name" {
-    default = "myRedirectConfig"
+    default = "labRedirectConfig"
 }
