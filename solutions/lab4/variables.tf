@@ -67,13 +67,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-bb3792edafca.js"></script>
   
 
-  <title>terraform/main.tf at master · Azure/terraform · GitHub</title>
+  <title>terraform/variables.tf at master · Azure/terraform · GitHub</title>
 
 
 
     
 
-  <meta name="request-id" content="F91C:CE02:12A9628:133DAB8:63494385" data-pjax-transient="true"/><meta name="html-safe-nonce" content="44461d9e501d6b675446b68c88154a92fd841902a4550266e49d0e6f62f8c2e8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BenVyZS90ZXJyYWZvcm0vdHJlZS9tYXN0ZXIvcXVpY2tzdGFydC8xMDEtYXBwbGljYXRpb24tZ2F0ZXdheSIsInJlcXVlc3RfaWQiOiJGOTFDOkNFMDI6MTJBOTYyODoxMzNEQUI4OjYzNDk0Mzg1IiwidmlzaXRvcl9pZCI6IjE3NDM1MTUxNzA1ODU3MTQ3NTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="34b54ee59aeeb93a5ad0e90e29c3e1f7ba5abd22bccf8a842dd0a3aa6092174b" data-pjax-transient="true"/>
+  <meta name="request-id" content="F91C:CE02:12AD9C1:134206B:634943AF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="44461d9e501d6b675446b68c88154a92fd841902a4550266e49d0e6f62f8c2e8" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BenVyZS90ZXJyYWZvcm0vdHJlZS9tYXN0ZXIvcXVpY2tzdGFydC8xMDEtYXBwbGljYXRpb24tZ2F0ZXdheSIsInJlcXVlc3RfaWQiOiJGOTFDOkNFMDI6MTJBRDlDMToxMzQyMDZCOjYzNDk0M0FGIiwidmlzaXRvcl9pZCI6IjE3NDM1MTUxNzA1ODU3MTQ3NTAiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="81e4ca2231c2bff1b439aa8bf33693951f1991260c8d5b28cad1885974effc18" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:117169328" data-turbo-transient>
 
@@ -106,13 +106,13 @@
 
     <meta name="viewport" content="width=device-width">
     
-      <meta name="description" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/main.tf at master · Azure/terraform">
+      <meta name="description" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/variables.tf at master · Azure/terraform">
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/593b16f9b06a6cd227609855ca27d40633a9c360d761a154d45b335b3c52bfa8/Azure/terraform" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="terraform/main.tf at master · Azure/terraform" /><meta name="twitter:description" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/main.tf at master · Azure/terraform" />
-      <meta property="og:image" content="https://opengraph.githubassets.com/593b16f9b06a6cd227609855ca27d40633a9c360d761a154d45b335b3c52bfa8/Azure/terraform" /><meta property="og:image:alt" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/main.tf at master · Azure/terraform" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="terraform/main.tf at master · Azure/terraform" /><meta property="og:url" content="https://github.com/Azure/terraform" /><meta property="og:description" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/main.tf at master · Azure/terraform" />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/593b16f9b06a6cd227609855ca27d40633a9c360d761a154d45b335b3c52bfa8/Azure/terraform" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="terraform/variables.tf at master · Azure/terraform" /><meta name="twitter:description" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/variables.tf at master · Azure/terraform" />
+      <meta property="og:image" content="https://opengraph.githubassets.com/593b16f9b06a6cd227609855ca27d40633a9c360d761a154d45b335b3c52bfa8/Azure/terraform" /><meta property="og:image:alt" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/variables.tf at master · Azure/terraform" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="terraform/variables.tf at master · Azure/terraform" /><meta property="og:url" content="https://github.com/Azure/terraform" /><meta property="og:description" content="Source code for the Azure Marketplace Terraform development VM package. - terraform/variables.tf at master · Azure/terraform" />
       
     <link rel="assets" href="https://github.githubassets.com/">
 
@@ -141,7 +141,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-out env-production page-responsive page-blob">
 
 
@@ -194,7 +194,7 @@
         <div class="flex-1">
           <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
             class="d-inline-block d-lg-none flex-order-1 f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="820b3f851b654027e256f6f8a48d61c3cbbd1cfbefc65036d8f10bd5bd2d3bc3"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="24c0b9a0d4a6c77b5c33b7115f9efffb28575a911eb5626a08e51f20c2086f93"
           >
             Sign&nbsp;up
           </a>
@@ -226,7 +226,7 @@
         <ul class="list-style-none f5 px-lg-4 border-lg-right mb-4 mb-lg-0 pr-lg-7">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Actions;&quot;}" href="/features/actions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Actions&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Actions;&quot;}" href="/features/actions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-workflow color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1 3a2 2 0 012-2h6.5a2 2 0 012 2v6.5a2 2 0 01-2 2H7v4.063C7 16.355 7.644 17 8.438 17H12.5v-2.5a2 2 0 012-2H21a2 2 0 012 2V21a2 2 0 01-2 2h-6.5a2 2 0 01-2-2v-2.5H8.437A2.938 2.938 0 015.5 15.562V11.5H3a2 2 0 01-2-2V3zm2-.5a.5.5 0 00-.5.5v6.5a.5.5 0 00.5.5h6.5a.5.5 0 00.5-.5V3a.5.5 0 00-.5-.5H3zM14.5 14a.5.5 0 00-.5.5V21a.5.5 0 00.5.5H21a.5.5 0 00.5-.5v-6.5a.5.5 0 00-.5-.5h-6.5z"></path>
 </svg>
@@ -239,7 +239,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Packages;&quot;}" href="/features/packages">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Packages&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Packages;&quot;}" href="/features/packages">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-package color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M12.876.64a1.75 1.75 0 00-1.75 0l-8.25 4.762a1.75 1.75 0 00-.875 1.515v9.525c0 .625.334 1.203.875 1.515l8.25 4.763a1.75 1.75 0 001.75 0l8.25-4.762a1.75 1.75 0 00.875-1.516V6.917a1.75 1.75 0 00-.875-1.515L12.876.639zm-1 1.298a.25.25 0 01.25 0l7.625 4.402-7.75 4.474-7.75-4.474 7.625-4.402zM3.501 7.64v8.803c0 .09.048.172.125.216l7.625 4.402v-8.947L3.501 7.64zm9.25 13.421l7.625-4.402a.25.25 0 00.125-.216V7.639l-7.75 4.474v8.947z"></path>
 </svg>
@@ -252,7 +252,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Security;&quot;}" href="/features/security">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Security&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Security;&quot;}" href="/features/security">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-shield-check color-fg-subtle mr-3">
     <path d="M16.53 9.78a.75.75 0 00-1.06-1.06L11 13.19l-1.97-1.97a.75.75 0 00-1.06 1.06l2.5 2.5a.75.75 0 001.06 0l5-5z"></path><path fill-rule="evenodd" d="M12.54.637a1.75 1.75 0 00-1.08 0L3.21 3.312A1.75 1.75 0 002 4.976V10c0 6.19 3.77 10.705 9.401 12.83.386.145.812.145 1.198 0C18.229 20.704 22 16.19 22 10V4.976c0-.759-.49-1.43-1.21-1.664L12.54.637zm-.617 1.426a.25.25 0 01.154 0l8.25 2.676a.25.25 0 01.173.237V10c0 5.461-3.28 9.483-8.43 11.426a.2.2 0 01-.14 0C6.78 19.483 3.5 15.46 3.5 10V4.976c0-.108.069-.203.173-.237l8.25-2.676z"></path>
 </svg>
@@ -265,7 +265,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Codespaces&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Codespaces;&quot;}" href="/features/codespaces">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-codespaces color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M3.5 3.75C3.5 2.784 4.284 2 5.25 2h13.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0118.75 13H5.25a1.75 1.75 0 01-1.75-1.75v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h13.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H5.25zM1.5 15.75c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v4a1.75 1.75 0 01-1.75 1.75H3.25a1.75 1.75 0 01-1.75-1.75v-4zm1.75-.25a.25.25 0 00-.25.25v4c0 .138.112.25.25.25h17.5a.25.25 0 00.25-.25v-4a.25.25 0 00-.25-.25H3.25z"></path><path fill-rule="evenodd" d="M10 17.75a.75.75 0 01.75-.75h6.5a.75.75 0 010 1.5h-6.5a.75.75 0 01-.75-.75zm-4 0a.75.75 0 01.75-.75h.5a.75.75 0 010 1.5h-.5a.75.75 0 01-.75-.75z"></path>
 </svg>
@@ -278,7 +278,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Copilot;&quot;}" href="/features/copilot">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Copilot&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Copilot;&quot;}" href="/features/copilot">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-copilot color-fg-subtle mr-3">
     <path d="M9.75 14a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75zm4.5 0a.75.75 0 01.75.75v2.5a.75.75 0 01-1.5 0v-2.5a.75.75 0 01.75-.75z"></path><path fill-rule="evenodd" d="M12 2c-2.214 0-4.248.657-5.747 1.756a7.43 7.43 0 00-.397.312c-.584.235-1.077.546-1.474.952-.85.87-1.132 2.037-1.132 3.368 0 .368.014.733.052 1.086l-.633 1.478-.043.022A4.75 4.75 0 000 15.222v1.028c0 .529.31.987.564 1.293.28.336.637.653.967.918a13.262 13.262 0 001.299.911l.024.015.006.004.04.025.144.087c.124.073.304.177.535.3.46.245 1.122.57 1.942.894C7.155 21.344 9.439 22 12 22s4.845-.656 6.48-1.303c.819-.324 1.481-.65 1.941-.895a13.797 13.797 0 00.68-.386l.039-.025.006-.004.024-.015a8.829 8.829 0 00.387-.248c.245-.164.577-.396.912-.663.33-.265.686-.582.966-.918.256-.306.565-.764.565-1.293v-1.028a4.75 4.75 0 00-2.626-4.248l-.043-.022-.633-1.478c.038-.353.052-.718.052-1.086 0-1.331-.282-2.499-1.132-3.368-.397-.406-.89-.717-1.474-.952a7.386 7.386 0 00-.397-.312C16.248 2.657 14.214 2 12 2zm-8 9.654l.038-.09c.046.06.094.12.145.177.793.9 2.057 1.259 3.782 1.259 1.59 0 2.739-.544 3.508-1.492.131-.161.249-.331.355-.508a32.948 32.948 0 00.344 0c.106.177.224.347.355.508.77.948 1.918 1.492 3.508 1.492 1.725 0 2.989-.359 3.782-1.259.05-.057.099-.116.145-.177l.038.09v6.669a17.618 17.618 0 01-2.073.98C16.405 19.906 14.314 20.5 12 20.5c-2.314 0-4.405-.594-5.927-1.197A17.62 17.62 0 014 18.323v-6.67zm6.309-1.092a2.35 2.35 0 01-.38.374c-.437.341-1.054.564-1.964.564-1.573 0-2.292-.337-2.657-.75-.192-.218-.331-.506-.423-.89-.091-.385-.135-.867-.135-1.472 0-1.14.243-1.847.705-2.32.477-.487 1.319-.861 2.824-1.024 1.487-.16 2.192.138 2.533.529l.008.01c.264.308.429.806.43 1.568v.031a7.203 7.203 0 01-.09 1.079c-.143.967-.406 1.754-.851 2.301zm2.504-2.497a7.174 7.174 0 01-.063-.894v-.02c.001-.77.17-1.27.438-1.578.341-.39 1.046-.69 2.533-.529 1.506.163 2.347.537 2.824 1.025.462.472.705 1.179.705 2.319 0 1.21-.174 1.926-.558 2.361-.365.414-1.084.751-2.657.751-1.21 0-1.902-.393-2.344-.938-.475-.584-.742-1.44-.878-2.497z"></path>
 </svg>
@@ -291,7 +291,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Code review;&quot;}" href="/features/code-review">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Code review&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Code review;&quot;}" href="/features/code-review">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-code-review color-fg-subtle mr-3">
     <path d="M10.3 6.74a.75.75 0 01-.04 1.06l-2.908 2.7 2.908 2.7a.75.75 0 11-1.02 1.1l-3.5-3.25a.75.75 0 010-1.1l3.5-3.25a.75.75 0 011.06.04zm3.44 1.06a.75.75 0 111.02-1.1l3.5 3.25a.75.75 0 010 1.1l-3.5 3.25a.75.75 0 11-1.02-1.1l2.908-2.7-2.908-2.7z"></path><path fill-rule="evenodd" d="M1.5 4.25c0-.966.784-1.75 1.75-1.75h17.5c.966 0 1.75.784 1.75 1.75v12.5a1.75 1.75 0 01-1.75 1.75h-9.69l-3.573 3.573A1.457 1.457 0 015 21.043V18.5H3.25a1.75 1.75 0 01-1.75-1.75V4.25zM3.25 4a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h2.5a.75.75 0 01.75.75v3.19l3.72-3.72a.75.75 0 01.53-.22h10a.25.25 0 00.25-.25V4.25a.25.25 0 00-.25-.25H3.25z"></path>
 </svg>
@@ -304,7 +304,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Issues;&quot;}" href="/features/issues">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center pb-lg-3" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Issues&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Issues;&quot;}" href="/features/issues">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-issue-opened color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M2.5 12a9.5 9.5 0 1119 0 9.5 9.5 0 01-19 0zM12 1C5.925 1 1 5.925 1 12s4.925 11 11 11 11-4.925 11-11S18.075 1 12 1zm0 13a2 2 0 100-4 2 2 0 000 4z"></path>
 </svg>
@@ -317,7 +317,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Discussions;&quot;}" href="/features/discussions">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Discussions&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Discussions;&quot;}" href="/features/discussions">
       <svg aria-hidden="true" height="24" viewBox="0 0 24 24" version="1.1" width="24" data-view-component="true" class="octicon octicon-comment-discussion color-fg-subtle mr-3">
     <path fill-rule="evenodd" d="M1.75 1A1.75 1.75 0 000 2.75v9.5C0 13.216.784 14 1.75 14H3v1.543a1.457 1.457 0 002.487 1.03L8.061 14h6.189A1.75 1.75 0 0016 12.25v-9.5A1.75 1.75 0 0014.25 1H1.75zM1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v9.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 15.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-9.5z"></path><path d="M22.5 8.75a.25.25 0 00-.25-.25h-3.5a.75.75 0 010-1.5h3.5c.966 0 1.75.784 1.75 1.75v9.5A1.75 1.75 0 0122.25 20H21v1.543a1.457 1.457 0 01-2.487 1.03L15.939 20H10.75A1.75 1.75 0 019 18.25v-1.465a.75.75 0 011.5 0v1.465c0 .138.112.25.25.25h5.5a.75.75 0 01.53.22l2.72 2.72v-2.19a.75.75 0 01.75-.75h2a.25.25 0 00.25-.25v-9.5z"></path>
 </svg>
@@ -334,14 +334,14 @@
             <li class="h4 color-fg-default my-1">Explore</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:All features;&quot;}" href="/features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to All features&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:All features;&quot;}" href="/features">
       All features
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Documentation&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Documentation;&quot;}" href="https://docs.github.com">
       Documentation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -350,7 +350,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to GitHub Skills&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:GitHub Skills;&quot;}" href="https://skills.github.com/">
       GitHub Skills
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -359,7 +359,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Blog;&quot;}" href="https://github.blog">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Product&quot;,&quot;action&quot;:&quot;click to go to Blog&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Blog;&quot;}" href="https://github.blog">
       Blog
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -384,21 +384,21 @@
             <li class="h4 color-fg-default my-1">By Plan</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Enterprise;&quot;}" href="/enterprise">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Enterprise&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Enterprise;&quot;}" href="/enterprise">
       Enterprise
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Teams;&quot;}" href="/team">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Teams&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Teams;&quot;}" href="/team">
       Teams
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Compare all&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Compare all;&quot;}" href="/pricing#compare-features">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Compare all&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Compare all;&quot;}" href="/pricing#compare-features">
       Compare all
 
     
@@ -409,7 +409,7 @@
             <li class="h4 color-fg-default my-1">By Solution</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="https://resources.github.com/ci-cd/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to CI/CD &amp;amp; Automation&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:CI/CD &amp;amp; Automation;&quot;}" href="https://resources.github.com/ci-cd/">
       CI/CD &amp; Automation
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -418,7 +418,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevOps&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:DevOps;&quot;}" href="https://resources.github.com/devops/">
       DevOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -427,7 +427,7 @@
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to DevSecOps&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:DevSecOps;&quot;}" href="https://resources.github.com/devops/fundamentals/devsecops/">
       DevSecOps
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -440,14 +440,14 @@
             <li class="h4 color-fg-default my-1">Case Studies</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Customer Stories&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Customer Stories;&quot;}" href="/customer-stories">
       Customer Stories
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" target="_blank" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Solutions&quot;,&quot;action&quot;:&quot;click to go to Resources&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Resources;&quot;}" href="https://resources.github.com/">
       Resources
 
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-link-external HeaderMenu-external-icon color-fg-subtle">
@@ -471,7 +471,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to GitHub Sponsors&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:GitHub Sponsors;&quot;}" href="/sponsors">
       
       <div>
         <div class="color-fg-default h4">GitHub Sponsors</div>
@@ -485,7 +485,7 @@
         <ul class="list-style-none f5 border-bottom pb-3 mb-3">
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:The ReadME Project;&quot;}" href="/readme">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary d-flex flex-items-center" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to The ReadME Project&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:The ReadME Project;&quot;}" href="/readme">
       
       <div>
         <div class="color-fg-default h4">The ReadME Project</div>
@@ -500,21 +500,21 @@
             <li class="h4 color-fg-default my-1">Repositories</li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Topics;&quot;}" href="/topics">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Topics&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Topics;&quot;}" href="/topics">
       Topics
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Trending;&quot;}" href="/trending">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Trending&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Trending;&quot;}" href="/trending">
       Trending
 
     
 </a></li>
 
             <li>
-  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Collections;&quot;}" href="/collections">
+  <a class="HeaderMenu-dropdown-link lh-condensed d-block no-underline position-relative py-2 Link--secondary" data-analytics-event="{&quot;category&quot;:&quot;Header dropdown (logged out), Open Source&quot;,&quot;action&quot;:&quot;click to go to Collections&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Collections;&quot;}" href="/collections">
       Collections
 
     
@@ -526,7 +526,7 @@
 
 
                 <li class="HeaderMenu-item position-relative flex-wrap flex-justify-between flex-items-center d-block d-lg-flex flex-lg-nowrap flex-lg-items-center js-details-container js-header-menu-item">
-    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
+    <a class="HeaderMenu-link no-underline px-0 px-lg-2 py-3 py-lg-2 d-block d-lg-inline-block" data-analytics-event="{&quot;category&quot;:&quot;Header menu top item (logged out)&quot;,&quot;action&quot;:&quot;click to go to Pricing&quot;,&quot;label&quot;:&quot;ref_page:/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf;ref_cta:Pricing;&quot;}" href="/pricing">Pricing</a>
 </li>
 
             </ul>
@@ -562,7 +562,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="TbjmSlqBUsul/3ot4Gq3xuk2GzNeQmDYuEUsGxD/OUYejsd0TjVsKBSGU240ONPZ5cmsP7Cv0WwBbXZ1Jy0uMQ==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="aAvwU1f9WA8h6TLtZlk3u/ah+1Js8MDNCoZN+BClxVw7PdFtQ0lm7JCQG66yC1Ok+l5MXoIdcXmzrheWJ3fSKw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -742,9 +742,9 @@
             </div>
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
-            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FAzure%2Fterraform%2Fblob%2Fmaster%2Fquickstart%2F101-application-gateway%2Fmain.tf"
+            <a href="/login?return_to=https%3A%2F%2Fgithub.com%2FAzure%2Fterraform%2Fblob%2Fmaster%2Fquickstart%2F101-application-gateway%2Fvariables.tf"
               class="HeaderMenu-link HeaderMenu-link--sign-in flex-shrink-0 no-underline d-block d-lg-inline-block border border-lg-0 rounded rounded-lg-0 p-2 p-lg-0"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0ef6a8a45933e65e1534fee4a7613adf5c9648dbe15c2b34b41c8475ed995972"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3db56f6eab4de511f8a18a017f8a8795a334d8d0c9b3171c0f800827a4d99f70"
               data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
               Sign in
             </a>
@@ -752,7 +752,7 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=Azure%2Fterraform"
               class="HeaderMenu-link HeaderMenu-link--sign-up flex-shrink-0 d-none d-lg-inline-block no-underline border color-border-default rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0ef6a8a45933e65e1534fee4a7613adf5c9648dbe15c2b34b41c8475ed995972"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3db56f6eab4de511f8a18a017f8a8795a334d8d0c9b3171c0f800827a4d99f70"
               data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
             >
               Sign up
@@ -855,14 +855,14 @@
       
 
   <li>
-          <a href="/login?return_to=%2FAzure%2Fterraform" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="50ffbc8ccb286753c0cf91aa68406ac823a880716c1a34316a4cec58686cc2b1" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
+          <a href="/login?return_to=%2FAzure%2Fterraform" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ab65639fee8e8b3f2e723db933456323aff085ac9753bbd46c883380d819772f" aria-label="You must be signed in to change notification settings" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>Notifications
 </a>
   </li>
 
   <li>
-          <a icon="repo-forked" href="/login?return_to=%2FAzure%2Fterraform" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:117169328,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dafa23209118573753ea5b733be13b78fe72989d728ec06d2c83bf72398e438d" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+          <a icon="repo-forked" href="/login?return_to=%2FAzure%2Fterraform" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:117169328,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="241d97573c3123bef6ad819cdaef95d4663bc075d3b3a7598dd26b6dc30e89f1" aria-label="You must be signed in to fork a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="429" data-view-component="true" class="Counter">429</span>
@@ -871,7 +871,7 @@
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FAzure%2Fterraform" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:117169328,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="14d9d1fe381ed26ada279b604d766654dae53b328dcb696a5d171d8837038508" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
+        <a href="/login?return_to=%2FAzure%2Fterraform" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:117169328,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4b4b04ff1f0dd771fd446056542585ea2175f538129f984c969e69fbe2b2136f" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-s btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1047,7 +1047,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Azure/terraform/blob/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/main.tf">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Azure/terraform/blob/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/variables.tf">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -1055,7 +1055,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="484b22604633eb4b15875e674c0500e41bbc2ce0018ae54fb4cd04cce84205a5">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4071b27fca596c26b2825a9d6787a62d96aeed8679e4fec1eebba84ed789fe12">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -1134,7 +1134,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Azure/terraform/blob/{{ urlEncodedRefName }}/quickstart/101-application-gateway/main.tf" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Azure/terraform/blob/{{ urlEncodedRefName }}/quickstart/101-application-gateway/variables.tf" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1174,7 +1174,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Azure/terraform/blob/{{ urlEncodedRefName }}/quickstart/101-application-gateway/main.tf" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Azure/terraform/blob/{{ urlEncodedRefName }}/quickstart/101-application-gateway/variables.tf" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -1235,7 +1235,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Azure/terraform"><span>terraform</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Azure/terraform/tree/master/quickstart"><span>quickstart</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Azure/terraform/tree/master/quickstart/101-application-gateway"><span>101-application-gateway</span></a></span><span class="separator">/</span><strong class="final-path">main.tf</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Azure/terraform"><span>terraform</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Azure/terraform/tree/master/quickstart"><span>quickstart</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Azure/terraform/tree/master/quickstart/101-application-gateway"><span>101-application-gateway</span></a></span><span class="separator">/</span><strong class="final-path">variables.tf</strong>
   </h2>
     <a href="/Azure/terraform/find/master" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -1246,7 +1246,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b7ff97f08c9fd92a9007fe01cf082192669ac6cdbcfc58217afeca3ca4e790b2" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Azure/terraform/find/master">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="af5b17502257a88d38aa43cfb5a7db6e4c1d44cf7ae4f710c248922a1a5acded" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Azure/terraform/find/master">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -1258,13 +1258,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="quickstart/101-application-gateway/main.tf" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="quickstart/101-application-gateway/variables.tf" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Azure/terraform/blob/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/main.tf" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Azure/terraform/blob/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/variables.tf" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -1296,7 +1296,7 @@
     <include-fragment src="/Azure/terraform/spoofed_commit_check/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Azure/terraform/contributors/master/quickstart/101-application-gateway/main.tf" class="commit-loader">
+  <include-fragment src="/Azure/terraform/contributors/master/quickstart/101-application-gateway/variables.tf" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1326,23 +1326,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      160 lines (133 sloc)
+      27 lines (21 sloc)
       <span class="file-info-divider"></span>
-    4.61 KB
+    482 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Azure/terraform/raw/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/main.tf" href="/Azure/terraform/raw/master/quickstart/101-application-gateway/main.tf" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Azure/terraform/blame/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/main.tf" href="/Azure/terraform/blame/master/quickstart/101-application-gateway/main.tf" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Azure/terraform/raw/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/variables.tf" href="/Azure/terraform/raw/master/quickstart/101-application-gateway/variables.tf" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Azure/terraform/blame/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/variables.tf" href="/Azure/terraform/blame/master/quickstart/101-application-gateway/variables.tf" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Azure/terraform/edit/master/quickstart/101-application-gateway/main.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nUkJOMISqWVZRR4xUGUtftu8oN3aBSizEwV28F6uUgY0B4ujOG1LL36811jLovO4B_hP4T83m6R335_uFFBxOw" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Azure/terraform/edit/master/quickstart/101-application-gateway/variables.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="HQz_fhUKm8Pz9HMVjRuq3zzzatlPMYKv6uB-qi_gZv4rJdnsEXd1ZPMO3MZQAP1rPu701WjOGcPpfIV5KQNXaQ" autocomplete="off" />
       <button disabled="disabled" title="You must be signed in to make or propose changes" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -1352,7 +1352,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Azure/terraform/edit/master/quickstart/101-application-gateway/main.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="l8qwRBqt2QRDB9FGFauaKxOwNCClli38NbkXBPLxFHw-hDLf4NI7TmT-GC-ObETtz_TbHECknutRY_4auA83QQ" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Azure/terraform/edit/master/quickstart/101-application-gateway/variables.tf" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Usm-kFVraQE9uO45Vw--JK80TKnXERe9O0UX6Sbb_rhk4JgCURaHpj1CQeqKFOmQrSnSpfDujNE42ew6IDjPLw" autocomplete="off" />
               <button disabled="disabled" title="You must be signed in to make or propose changes" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-muted text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -1368,10 +1368,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Azure/terraform/raw/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/main.tf" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Azure/terraform/raw/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/variables.tf" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02e9b909e4d5db6a1fc47acee5f3ccc73d1114ba6ecd08db4f9a48e5b55ba9db" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e9383bf60dc75b424e8204d3c1c990e859cf809a3be90ae2741336fc1db9ae77" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -1428,15 +1428,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Azure/terraform/raw/master/quickstart/101-application-gateway/main.tf">
+            <a class="dropdown-item" href="/Azure/terraform/raw/master/quickstart/101-application-gateway/variables.tf">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Azure/terraform/raw/master/quickstart/101-application-gateway/main.tf" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Azure/terraform/raw/master/quickstart/101-application-gateway/variables.tf" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/main.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02e9b909e4d5db6a1fc47acee5f3ccc73d1114ba6ecd08db4f9a48e5b55ba9db">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:117169328,&quot;originating_url&quot;:&quot;https://github.com/Azure/terraform/blob/master/quickstart/101-application-gateway/variables.tf&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e9383bf60dc75b424e8204d3c1c990e859cf809a3be90ae2741336fc1db9ae77">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -1459,7 +1459,7 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Azure/terraform/blame/master/quickstart/101-application-gateway/main.tf">
+              <a class="dropdown-item" href="/Azure/terraform/blame/master/quickstart/101-application-gateway/variables.tf">
                 View blame
               </a>
             </li>
@@ -1499,47 +1499,48 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HCL" data-tagsearch-path="quickstart/101-application-gateway/main.tf">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="HCL" data-tagsearch-path="quickstart/101-application-gateway/variables.tf">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_resource_group<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>rg1<span class="pl-pds">&quot;</span></span> {</td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>backend_address_pool_name<span class="pl-pds">&quot;</span></span> {</td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">  name     <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myResourceGroupAG<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myBackendPool<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line">  location <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>eastus<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">
 </td>
         </tr>
         <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>frontend_port_name<span class="pl-pds">&quot;</span></span> {</td>
+        </tr>
+        <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_virtual_network<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>vnet1<span class="pl-pds">&quot;</span></span> {</td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myFrontendPort<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">  name                <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myVNet<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">  resource_group_name <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">  location            <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">location</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>frontend_ip_configuration_name<span class="pl-pds">&quot;</span></span> {</td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">  address_space       <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>10.21.0.0/16<span class="pl-pds">&quot;</span></span>]</td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myAGIPConfig<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
@@ -1552,620 +1553,66 @@
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_subnet<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>frontend<span class="pl-pds">&quot;</span></span> {</td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>http_setting_name<span class="pl-pds">&quot;</span></span> {</td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">  name                 <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myAGSubnet<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myHTTPsetting<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">  resource_group_name  <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">  virtual_network_name <span class="pl-k">=</span> azurerm_virtual_network<span class="pl-k">.</span><span class="pl-smi">vnet1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">  address_prefixes     <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>10.21.0.0/24<span class="pl-pds">&quot;</span></span>]</td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>listener_name<span class="pl-pds">&quot;</span></span> {</td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myListener<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_subnet<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>backend<span class="pl-pds">&quot;</span></span> {</td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">  name                 <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myBackendSubnet<span class="pl-pds">&quot;</span></span></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>request_routing_rule_name<span class="pl-pds">&quot;</span></span> {</td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">  resource_group_name  <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myRoutingRule<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">  virtual_network_name <span class="pl-k">=</span> azurerm_virtual_network<span class="pl-k">.</span><span class="pl-smi">vnet1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">  address_prefixes     <span class="pl-k">=</span> [<span class="pl-s"><span class="pl-pds">&quot;</span>10.21.1.0/24<span class="pl-pds">&quot;</span></span>]</td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-k">variable</span> <span class="pl-s"><span class="pl-pds">&quot;</span>redirect_configuration_name<span class="pl-pds">&quot;</span></span> {</td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">    default <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myRedirectConfig<span class="pl-pds">&quot;</span></span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_public_ip<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>pip1<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">  name                <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myAGPublicIPAddress<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">  resource_group_name <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
-        </tr>
-        <tr>
-          <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">  location            <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">location</span></td>
-        </tr>
-        <tr>
-          <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">  allocation_method   <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Static<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">  sku                 <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Standard<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
-          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_application_gateway<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>network<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">  name                <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myAppGateway<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">  resource_group_name <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
-        </tr>
-        <tr>
-          <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">  location            <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">location</span></td>
-        </tr>
-        <tr>
-          <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">sku</span> {</td>
-        </tr>
-        <tr>
-          <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">    name     <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Standard_v2<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">    tier     <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Standard_v2<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">    capacity <span class="pl-k">=</span> <span class="pl-c1">2</span></td>
-        </tr>
-        <tr>
-          <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">gateway_ip_configuration</span> {</td>
-        </tr>
-        <tr>
-          <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">    name      <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>my-gateway-ip-configuration<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">    subnet_id <span class="pl-k">=</span> azurerm_subnet<span class="pl-k">.</span><span class="pl-smi">frontend</span><span class="pl-k">.</span><span class="pl-smi">id</span></td>
-        </tr>
-        <tr>
-          <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">frontend_port</span> {</td>
-        </tr>
-        <tr>
-          <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">    name <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">frontend_port_name</span></td>
-        </tr>
-        <tr>
-          <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">    port <span class="pl-k">=</span> <span class="pl-c1">80</span></td>
-        </tr>
-        <tr>
-          <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">frontend_ip_configuration</span> {</td>
-        </tr>
-        <tr>
-          <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">    name                 <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">frontend_ip_configuration_name</span></td>
-        </tr>
-        <tr>
-          <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">    public_ip_address_id <span class="pl-k">=</span> azurerm_public_ip<span class="pl-k">.</span><span class="pl-smi">pip1</span><span class="pl-k">.</span><span class="pl-smi">id</span></td>
-        </tr>
-        <tr>
-          <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">backend_address_pool</span> {</td>
-        </tr>
-        <tr>
-          <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line">    name <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">backend_address_pool_name</span></td>
-        </tr>
-        <tr>
-          <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">backend_http_settings</span> {</td>
-        </tr>
-        <tr>
-          <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line">    name                  <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">http_setting_name</span></td>
-        </tr>
-        <tr>
-          <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">    cookie_based_affinity <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Disabled<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line">    port                  <span class="pl-k">=</span> <span class="pl-c1">80</span></td>
-        </tr>
-        <tr>
-          <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line">    protocol              <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Http<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">    request_timeout       <span class="pl-k">=</span> <span class="pl-c1">60</span></td>
-        </tr>
-        <tr>
-          <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">http_listener</span> {</td>
-        </tr>
-        <tr>
-          <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line">    name                           <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">listener_name</span></td>
-        </tr>
-        <tr>
-          <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line">    frontend_ip_configuration_name <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">frontend_ip_configuration_name</span></td>
-        </tr>
-        <tr>
-          <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line">    frontend_port_name             <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">frontend_port_name</span></td>
-        </tr>
-        <tr>
-          <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line">    protocol                       <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Http<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">request_routing_rule</span> {</td>
-        </tr>
-        <tr>
-          <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line">    name                       <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">request_routing_rule_name</span></td>
-        </tr>
-        <tr>
-          <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line">    rule_type                  <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Basic<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line">    http_listener_name         <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">listener_name</span></td>
-        </tr>
-        <tr>
-          <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line">    backend_address_pool_name  <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">backend_address_pool_name</span></td>
-        </tr>
-        <tr>
-          <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
-          <td id="LC87" class="blob-code blob-code-inner js-file-line">    backend_http_settings_name <span class="pl-k">=</span> <span class="pl-c1">var</span><span class="pl-k">.</span><span class="pl-smi">http_setting_name</span></td>
-        </tr>
-        <tr>
-          <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
-          <td id="LC88" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
-          <td id="LC89" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
-          <td id="LC90" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
-          <td id="LC91" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_network_interface<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>nic<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
-          <td id="LC92" class="blob-code blob-code-inner js-file-line">  count <span class="pl-k">=</span> <span class="pl-c1">2</span></td>
-        </tr>
-        <tr>
-          <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
-          <td id="LC93" class="blob-code blob-code-inner js-file-line">  name                <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>nic-<span class="pl-k">${</span>count<span class="pl-k">.</span><span class="pl-smi">index</span><span class="pl-k">+</span><span class="pl-c1">1</span><span class="pl-k">}</span><span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
-          <td id="LC94" class="blob-code blob-code-inner js-file-line">  location            <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">location</span></td>
-        </tr>
-        <tr>
-          <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
-          <td id="LC95" class="blob-code blob-code-inner js-file-line">  resource_group_name <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
-        </tr>
-        <tr>
-          <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
-          <td id="LC96" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
-          <td id="LC97" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">ip_configuration</span> {</td>
-        </tr>
-        <tr>
-          <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
-          <td id="LC98" class="blob-code blob-code-inner js-file-line">    name                          <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>nic-ipconfig-<span class="pl-k">${</span>count<span class="pl-k">.</span><span class="pl-smi">index</span><span class="pl-k">+</span><span class="pl-c1">1</span><span class="pl-k">}</span><span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
-          <td id="LC99" class="blob-code blob-code-inner js-file-line">    subnet_id                     <span class="pl-k">=</span> azurerm_subnet<span class="pl-k">.</span><span class="pl-smi">backend</span><span class="pl-k">.</span><span class="pl-smi">id</span></td>
-        </tr>
-        <tr>
-          <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
-          <td id="LC100" class="blob-code blob-code-inner js-file-line">    private_ip_address_allocation <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Dynamic<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
-          <td id="LC101" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
-          <td id="LC102" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
-          <td id="LC103" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
-          <td id="LC104" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_network_interface_application_gateway_backend_address_pool_association<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>nic-assoc01<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
-          <td id="LC105" class="blob-code blob-code-inner js-file-line">  count <span class="pl-k">=</span> <span class="pl-c1">2</span></td>
-        </tr>
-        <tr>
-          <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
-          <td id="LC106" class="blob-code blob-code-inner js-file-line">  network_interface_id    <span class="pl-k">=</span> azurerm_network_interface<span class="pl-k">.</span><span class="pl-smi">nic</span>[count<span class="pl-k">.</span><span class="pl-smi">index</span>]<span class="pl-k">.</span><span class="pl-smi">id</span></td>
-        </tr>
-        <tr>
-          <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
-          <td id="LC107" class="blob-code blob-code-inner js-file-line">  ip_configuration_name   <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>nic-ipconfig-<span class="pl-k">${</span>count<span class="pl-k">.</span><span class="pl-smi">index</span><span class="pl-k">+</span><span class="pl-c1">1</span><span class="pl-k">}</span><span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
-          <td id="LC108" class="blob-code blob-code-inner js-file-line">  backend_address_pool_id <span class="pl-k">=</span> azurerm_application_gateway<span class="pl-k">.</span><span class="pl-smi">network</span><span class="pl-k">.</span><span class="pl-smi">backend_address_pool</span>[<span class="pl-c1">0</span>]<span class="pl-k">.</span><span class="pl-smi">id</span></td>
-        </tr>
-        <tr>
-          <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
-          <td id="LC109" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
-          <td id="LC110" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
-          <td id="LC111" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>random_password<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>password<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
-          <td id="LC112" class="blob-code blob-code-inner js-file-line">  length <span class="pl-k">=</span> <span class="pl-c1">16</span></td>
-        </tr>
-        <tr>
-          <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
-          <td id="LC113" class="blob-code blob-code-inner js-file-line">  special <span class="pl-k">=</span> <span class="pl-c1">true</span></td>
-        </tr>
-        <tr>
-          <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
-          <td id="LC114" class="blob-code blob-code-inner js-file-line">  lower <span class="pl-k">=</span> <span class="pl-c1">true</span></td>
-        </tr>
-        <tr>
-          <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
-          <td id="LC115" class="blob-code blob-code-inner js-file-line">  upper <span class="pl-k">=</span> <span class="pl-c1">true</span></td>
-        </tr>
-        <tr>
-          <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
-          <td id="LC116" class="blob-code blob-code-inner js-file-line">  number <span class="pl-k">=</span> <span class="pl-c1">true</span></td>
-        </tr>
-        <tr>
-          <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
-          <td id="LC117" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
-          <td id="LC118" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
-          <td id="LC119" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_windows_virtual_machine<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>vm<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
-          <td id="LC120" class="blob-code blob-code-inner js-file-line">  count <span class="pl-k">=</span> <span class="pl-c1">2</span></td>
-        </tr>
-        <tr>
-          <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
-          <td id="LC121" class="blob-code blob-code-inner js-file-line">  name                <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>myVM<span class="pl-k">${</span>count<span class="pl-k">.</span><span class="pl-smi">index</span><span class="pl-k">+</span><span class="pl-c1">1</span><span class="pl-k">}</span><span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
-          <td id="LC122" class="blob-code blob-code-inner js-file-line">  resource_group_name <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">name</span></td>
-        </tr>
-        <tr>
-          <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
-          <td id="LC123" class="blob-code blob-code-inner js-file-line">  location            <span class="pl-k">=</span> azurerm_resource_group<span class="pl-k">.</span><span class="pl-smi">rg1</span><span class="pl-k">.</span><span class="pl-smi">location</span></td>
-        </tr>
-        <tr>
-          <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
-          <td id="LC124" class="blob-code blob-code-inner js-file-line">  size                <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Standard_DS1_v2<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
-          <td id="LC125" class="blob-code blob-code-inner js-file-line">  admin_username      <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azureadmin<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
-          <td id="LC126" class="blob-code blob-code-inner js-file-line">  admin_password      <span class="pl-k">=</span> random_password<span class="pl-k">.</span><span class="pl-smi">password</span><span class="pl-k">.</span><span class="pl-smi">result</span></td>
-        </tr>
-        <tr>
-          <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
-          <td id="LC127" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
-          <td id="LC128" class="blob-code blob-code-inner js-file-line">  network_interface_ids <span class="pl-k">=</span> [</td>
-        </tr>
-        <tr>
-          <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
-          <td id="LC129" class="blob-code blob-code-inner js-file-line">    azurerm_network_interface<span class="pl-k">.</span><span class="pl-smi">nic</span>[count<span class="pl-k">.</span><span class="pl-smi">index</span>]<span class="pl-k">.</span><span class="pl-smi">id</span>,</td>
-        </tr>
-        <tr>
-          <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
-          <td id="LC130" class="blob-code blob-code-inner js-file-line">  ]</td>
-        </tr>
-        <tr>
-          <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
-          <td id="LC131" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
-          <td id="LC132" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">os_disk</span> {</td>
-        </tr>
-        <tr>
-          <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
-          <td id="LC133" class="blob-code blob-code-inner js-file-line">    caching              <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>ReadWrite<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
-          <td id="LC134" class="blob-code blob-code-inner js-file-line">    storage_account_type <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Standard_LRS<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
-          <td id="LC135" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
-          <td id="LC136" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
-          <td id="LC137" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
-          <td id="LC138" class="blob-code blob-code-inner js-file-line">  <span class="pl-en">source_image_reference</span> {</td>
-        </tr>
-        <tr>
-          <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
-          <td id="LC139" class="blob-code blob-code-inner js-file-line">    publisher <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>MicrosoftWindowsServer<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
-          <td id="LC140" class="blob-code blob-code-inner js-file-line">    offer     <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>WindowsServer<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
-          <td id="LC141" class="blob-code blob-code-inner js-file-line">    sku       <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>2019-Datacenter<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
-          <td id="LC142" class="blob-code blob-code-inner js-file-line">    version   <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>latest<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
-          <td id="LC143" class="blob-code blob-code-inner js-file-line">  }</td>
-        </tr>
-        <tr>
-          <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
-          <td id="LC144" class="blob-code blob-code-inner js-file-line">}</td>
-        </tr>
-        <tr>
-          <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
-          <td id="LC145" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
-          <td id="LC146" class="blob-code blob-code-inner js-file-line"><span class="pl-k">resource</span> <span class="pl-s"><span class="pl-pds">&quot;</span>azurerm_virtual_machine_extension<span class="pl-pds">&quot;</span></span> <span class="pl-s"><span class="pl-pds">&quot;</span>vm-extensions<span class="pl-pds">&quot;</span></span> {</td>
-        </tr>
-        <tr>
-          <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
-          <td id="LC147" class="blob-code blob-code-inner js-file-line">  count <span class="pl-k">=</span> <span class="pl-c1">2</span></td>
-        </tr>
-        <tr>
-          <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
-          <td id="LC148" class="blob-code blob-code-inner js-file-line">  name                 <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>vm<span class="pl-k">${</span>count<span class="pl-k">.</span><span class="pl-smi">index</span><span class="pl-k">+</span><span class="pl-c1">1</span><span class="pl-k">}</span>-ext<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
-          <td id="LC149" class="blob-code blob-code-inner js-file-line">  virtual_machine_id   <span class="pl-k">=</span> azurerm_windows_virtual_machine<span class="pl-k">.</span><span class="pl-smi">vm</span>[count<span class="pl-k">.</span><span class="pl-smi">index</span>]<span class="pl-k">.</span><span class="pl-smi">id</span></td>
-        </tr>
-        <tr>
-          <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
-          <td id="LC150" class="blob-code blob-code-inner js-file-line">  publisher            <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Microsoft.Compute<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
-          <td id="LC151" class="blob-code blob-code-inner js-file-line">  type                 <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>CustomScriptExtension<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
-          <td id="LC152" class="blob-code blob-code-inner js-file-line">  type_handler_version <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">&quot;</span>1.10<span class="pl-pds">&quot;</span></span></td>
-        </tr>
-        <tr>
-          <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
-          <td id="LC153" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
-          <td id="LC154" class="blob-code blob-code-inner js-file-line">  settings <span class="pl-k">=</span> <span class="pl-s"><span class="pl-k">&lt;&lt;</span><span class="pl-k">SETTINGS</span></span></td>
-        </tr>
-        <tr>
-          <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
-          <td id="LC155" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    {</span></td>
-        </tr>
-        <tr>
-          <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
-          <td id="LC156" class="blob-code blob-code-inner js-file-line"><span class="pl-s">        &quot;commandToExecute&quot;: &quot;powershell Add-WindowsFeature Web-Server; powershell Add-Content -Path \&quot;C:\\inetpub\\wwwroot\\Default.htm\&quot; -Value $($env:computername)&quot;</span></td>
-        </tr>
-        <tr>
-          <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
-          <td id="LC157" class="blob-code blob-code-inner js-file-line"><span class="pl-s">    }</span></td>
-        </tr>
-        <tr>
-          <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
-          <td id="LC158" class="blob-code blob-code-inner js-file-line"><span class="pl-s"><span class="pl-k">SETTINGS</span></span></td>
-        </tr>
-        <tr>
-          <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
-          <td id="LC159" class="blob-code blob-code-inner js-file-line">
-</td>
-        </tr>
-        <tr>
-          <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
-          <td id="LC160" class="blob-code blob-code-inner js-file-line">}</td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">}</td>
         </tr>
   </table>
 </div>
@@ -2191,7 +1638,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Azure/terraform/blame/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/main.tf">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Azure/terraform/blame/467e0a67f711d09e0dbb8d0fb5ec0e927e5c3e1e/quickstart/101-application-gateway/variables.tf">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Azure/terraform/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
