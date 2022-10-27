@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "resgrp" {
-  name     = "myResourceGroupAG"
+  name     = "RG4"
   location = "westeurope"
 }
 

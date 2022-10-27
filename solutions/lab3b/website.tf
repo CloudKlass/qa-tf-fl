@@ -11,8 +11,6 @@ static_website {
   }
 # end of comment block ###################################
  }
-
-
 # applying the above code will turn on Static Hosting, set the default document to index.html AND create a $web container to place web content
 # When uploading via IaC we need to pass the name of the container for the html file. We have declared a 'local' variable to hold the $web container name
 

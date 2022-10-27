@@ -9,7 +9,7 @@ resource "random_password" "password" {
 
 resource "azurerm_windows_virtual_machine" "vm" {
   count = 2
-  name                = "QAlabVM${count.index+1}"
+  name                = "VM${count.index+1}"
   resource_group_name = azurerm_resource_group.resgrp.name
   location            = azurerm_resource_group.resgrp.location
   size                = "Standard_DS2_v2"

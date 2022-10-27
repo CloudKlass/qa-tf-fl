@@ -12,7 +12,7 @@ provider "azurerm" {
 }
 
 resource "azurerm_resource_group" "lab2" {
-  name     = "RG-Lab2"
+  name     = "RG2"
   location = "West Europe"
 }
 
@@ -25,7 +25,7 @@ resource "azurerm_virtual_network" "lab2" {
 
 
 resource "azurerm_subnet" "lab2" {
-  name                 = "lab2subnet"
+  name                 = "lab2-subnet"
   resource_group_name  = azurerm_resource_group.lab2.name
   virtual_network_name = azurerm_virtual_network.lab2.name
   address_prefixes      = ["10.0.1.0/24"]
@@ -51,7 +51,7 @@ resource "azurerm_network_interface" "lab2" {
 
 
 resource "azurerm_windows_virtual_machine" "lab2" {
-  name                = "Lab2-machine"
+  name                = "vm2"
   resource_group_name = azurerm_resource_group.lab2.name
   location            = azurerm_resource_group.lab2.location
   size                = "Standard_DS2_v2"
